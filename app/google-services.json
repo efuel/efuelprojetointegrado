@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "810318203298",
+    "firebase_url": "https://efuelproject.firebaseio.com",
+    "project_id": "efuelproject",
+    "storage_bucket": "efuelproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810318203298:android:f415c0ebe1665451",
+        "android_client_info": {
+          "package_name": "com.projeto.efuel.efuelprojeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810318203298-i4e9j1c4o0j486rsi0rgk3q2u6m3m7q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projeto.efuel.efuelprojeto",
+            "certificate_hash": "4b0f049e51a5d67c6867925a1a27afda5e20733e"
+          }
+        },
+        {
+          "client_id": "810318203298-fkuikk704jr8gbitsa7pbrgdb8nakvvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY1mrtDqRIKkbCl38udDKjoAWDCsOKaJ8"
+        },
+        {
+          "current_key": "AIzaSyBY1mrtDqRIKkbCl38udDKjoAWDCsOKaJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810318203298-fkuikk704jr8gbitsa7pbrgdb8nakvvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
